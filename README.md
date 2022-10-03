@@ -5,7 +5,7 @@
 - Creating the Repository
 - Collect the Repository SSH URL
 
-***Pushing the Files and all its sub directories from Local system to remote system called <terraform> ***
+***Pushing the Files and all its sub directories from Local system to remote system called <terraform>***
 ```
 git init # Initialization the Git Repository
 ```
