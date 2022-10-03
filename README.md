@@ -5,7 +5,7 @@
 - Creating the Repository
 - Collect the Repository SSH URL
 
-* Initialization the Git Repository *
+_ Initialization the Git Repository _
 
 ```
 git init
