@@ -8,5 +8,22 @@
 ***Initialization the Git Repository***
 
 ```
-git init
+git init # Initialization the Git Repository
+```
+
+```
+git add . # Adding the Git in Local Repository
+```
+```
+
+git commit -m "first commit" # Committing the File
+```
+```
+git branch -M main # Committing to the Main Branch
+```
+```
+git remote add origin git@github.com:YIRJohnGit/terraform.git
+```
+```
+git push -u origin main # Pushing committed files to the Main Branch
 ```
