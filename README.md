@@ -2,7 +2,7 @@
 
 ###### ***Prerequisite***
 - Setting Up SSH to your repository
-- Creating the Repository
+- Creating the Public Repository called terraform
 - Collect the Repository SSH URL
 
 ***Pushing the Files and all its sub directories from Local system to remote system called (terraform)***
