@@ -6,16 +6,13 @@
 - Collect the Repository SSH URL
 
 ***Pushing the Files and all its sub directories from Local system to remote system called <terraform> ***
-
 ```
 git init # Initialization the Git Repository
 ```
-
 ```
 git add . # Adding the Git in Local Repository
 ```
 ```
-
 git commit -m "first commit" # Committing the File
 ```
 ```
