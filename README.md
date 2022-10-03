@@ -30,3 +30,8 @@ git push -u origin main # Pushing committed files to the Main Branch
 ```
 git add . && git commit -am "Adding 3rd line in index " && git push # One Line Statement for Pushing it to Git Repo
 ```
+
+###### ***Prerequisite***
+```
+git clone git@github.com:YIRJohnGit/terraform.git # Cloning to the local system from remote repository
+```
