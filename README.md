@@ -25,7 +25,7 @@ git remote add origin git@github.com:YIRJohnGit/terraform.git
 git push -u origin main # Pushing committed files to the Main Branch
 ```
 
-######Pushing the specific file in 1 line command######
+###### Pushing the specific file in 1 line command
 
 ```
 git add . && git commit -am "Adding 3rd line in index " && git push # One Line Statement for Pushing it to Git Repo
