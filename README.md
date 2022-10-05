@@ -35,3 +35,12 @@ git add . && git commit -am "Adding 3rd line in index " && git push # One Line S
 ```
 git clone git@github.com:YIRJohnGit/terraform.git # Cloning to the local system from remote repository
 ```
+
+###### ***Terraform Basic Commands***
+```
+terraform init
+terraform validate
+terraform plan
+terraform apply
+terraform destroy
+```
