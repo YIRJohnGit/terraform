@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 sudo apt-get remove docker docker-engine docker.io containerd runc # Uninstall old versions Dockers
 
