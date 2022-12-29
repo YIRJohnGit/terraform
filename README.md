@@ -44,3 +44,14 @@ terraform plan
 terraform apply
 terraform destroy -auto-approve
 ```
+
+```
+terraform init # dt at start or after adding new provider
+terraform validate # Check the syntax
+terraform plan # Dry Run, Shows you what will get created
+terraform apply -auto-approve #Creates the resources
+terraform destroy # bring down the whole infra
+terraform refresh  # Update the tfstat file with the observed (current) state
+terraform destroy -target <resource-type>.<local-resource-name> # Destroy specific resource
+terraform destroy -auto-approve -target aws_instance.myec2
+```
